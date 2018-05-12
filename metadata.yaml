@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/25595
     wikipedia: http://en.wikipedia.org/wiki/Charles_Carleton_Coffin
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22913#Winning-His-Way
 gutenberg_bookshelf: US Civil War
 gutenberg_issued: '2007-10-07'
 gutenberg_type: Text
