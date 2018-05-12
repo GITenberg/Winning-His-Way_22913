@@ -1,0 +1,29 @@
+_repo: Winning-His-Way_22913
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Coffin, Charles Carleton
+    alias: Coffin, Charles C. (Charles Carleton)
+    birthdate: 1823
+    deathdate: 1896
+    gutenberg_agent_id: '25595'
+    url: http://www.gutenberg.org/2009/agents/25595
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Carleton_Coffin
+description: ''
+gutenberg_bookshelf: US Civil War
+gutenberg_issued: '2007-10-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22913'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Fiction'
+title: Winning His Way
+url: http://www.gutenberg.org/ebooks/22913
